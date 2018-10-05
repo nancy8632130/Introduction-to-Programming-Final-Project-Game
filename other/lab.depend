@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1450432889 source:c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+
+1419998119 c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\console_draw3.h
+
+1197486290 c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\kb_input2.h
+	<windows.h>
+
+1419989929 c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\image.h
+
+1419989950 c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\font.h
+
+1260885116 c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1419990365 source:c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\audio.c
+	"audio.h"
+
+1420017857 source:c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419990296 source:c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1419990305 source:c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419988852 source:c:\users\cha\desktop\toolbox_for_student\151224_practice_lab\lab\kb_input2.c
+	"kb_input2.h"
+
+1419990366 source:d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\audio.c
+	"audio.h"
+
+1260885116 d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017858 source:d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998120 d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\console_draw3.h
+
+1419990306 source:d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1197486290 d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\kb_input2.h
+	<windows.h>
+
+1419989930 d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\image.h
+
+1419988854 source:d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\kb_input2.c
+	"kb_input2.h"
+
+1450936974 source:d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1419989952 d:\大學\程設\final project\toolbox_for_student\151224_practice_lab\lab\font.h
+
+1419990366 source:c:\users\new\toolbox_for_student\151224_practice_lab\lab\audio.c
+	"audio.h"
+
+1260885116 c:\users\new\toolbox_for_student\151224_practice_lab\lab\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017858 source:c:\users\new\toolbox_for_student\151224_practice_lab\lab\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998120 c:\users\new\toolbox_for_student\151224_practice_lab\lab\console_draw3.h
+
+1450936974 source:c:\users\new\toolbox_for_student\151224_practice_lab\lab\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\new\toolbox_for_student\151224_practice_lab\lab\kb_input2.h
+	<windows.h>
+
+1419989952 c:\users\new\toolbox_for_student\151224_practice_lab\lab\font.h
+
+1419990306 source:c:\users\new\toolbox_for_student\151224_practice_lab\lab\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989930 c:\users\new\toolbox_for_student\151224_practice_lab\lab\image.h
+
+1419988854 source:c:\users\new\toolbox_for_student\151224_practice_lab\lab\kb_input2.c
+	"kb_input2.h"
+
+1450940120 source:c:\users\new\toolbox_for_student\151224_practice_lab\lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+
+1419990366 source:d:\toolbox_for_student\151224_practice_lab\lab\audio.c
+	"audio.h"
+
+1260885116 d:\toolbox_for_student\151224_practice_lab\lab\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1420017858 source:d:\toolbox_for_student\151224_practice_lab\lab\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998120 d:\toolbox_for_student\151224_practice_lab\lab\console_draw3.h
+
+1450936974 source:d:\toolbox_for_student\151224_practice_lab\lab\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 d:\toolbox_for_student\151224_practice_lab\lab\kb_input2.h
+	<windows.h>
+
+1419989952 d:\toolbox_for_student\151224_practice_lab\lab\font.h
+
+1419990306 source:d:\toolbox_for_student\151224_practice_lab\lab\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989930 d:\toolbox_for_student\151224_practice_lab\lab\image.h
+
+1419988854 source:d:\toolbox_for_student\151224_practice_lab\lab\kb_input2.c
+	"kb_input2.h"
+
+1451198395 source:d:\toolbox_for_student\151224_practice_lab\lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+
+1451190597 source:d:\toolbox_for_student\151224_practice_lab\lab\ballmove.c
+

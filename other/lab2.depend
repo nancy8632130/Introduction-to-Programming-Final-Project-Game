@@ -1,0 +1,359 @@
+# depslib dependency file v1.0
+1419990366 source:c:\users\yen ping\desktop\lab\audio.c
+	"audio.h"
+
+1260885116 c:\users\yen ping\desktop\lab\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1451190598 source:c:\users\yen ping\desktop\lab\ballmove.c
+
+1420017858 source:c:\users\yen ping\desktop\lab\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998120 c:\users\yen ping\desktop\lab\console_draw3.h
+
+1450936976 source:c:\users\yen ping\desktop\lab\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\yen ping\desktop\lab\kb_input2.h
+	<windows.h>
+
+1419989952 c:\users\yen ping\desktop\lab\font.h
+
+1419990306 source:c:\users\yen ping\desktop\lab\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989930 c:\users\yen ping\desktop\lab\image.h
+
+1419988854 source:c:\users\yen ping\desktop\lab\kb_input2.c
+	"kb_input2.h"
+
+1451220002 source:c:\users\yen ping\desktop\lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+	"framework.h"
+	"level.h"
+
+1451205552 source:c:\users\yen ping\desktop\lab\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1451213462 c:\users\yen ping\desktop\lab\framework.h
+	"font.h"
+
+1451220536 source:c:\users\yen ping\desktop\lab\level.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+	"framework.h"
+	"level.h"
+
+1451220308 c:\users\yen ping\desktop\lab\level.h
+
+1419990366 source:e:\lab\audio.c
+	"audio.h"
+
+1260885116 e:\lab\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1451190598 source:e:\lab\ballmove.c
+
+1420017858 source:e:\lab\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998120 e:\lab\console_draw3.h
+
+1450936976 source:e:\lab\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 e:\lab\kb_input2.h
+	<windows.h>
+
+1419989952 e:\lab\font.h
+
+1451205552 source:e:\lab\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1451213464 e:\lab\framework.h
+	"font.h"
+
+1419990306 source:e:\lab\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989930 e:\lab\image.h
+
+1419988854 source:e:\lab\kb_input2.c
+	"kb_input2.h"
+
+1451220538 source:e:\lab\level.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+	"framework.h"
+	"level.h"
+
+1451220310 e:\lab\level.h
+
+1419990366 source:c:\users\nancy\desktop\lab33\lab\audio.c
+	"audio.h"
+
+1260885116 c:\users\nancy\desktop\lab33\lab\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1451190598 source:c:\users\nancy\desktop\lab33\lab\ballmove.c
+
+1420017858 source:c:\users\nancy\desktop\lab33\lab\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1419998120 c:\users\nancy\desktop\lab33\lab\console_draw3.h
+
+1450936976 source:c:\users\nancy\desktop\lab33\lab\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1197486290 c:\users\nancy\desktop\lab33\lab\kb_input2.h
+	<windows.h>
+
+1419989952 c:\users\nancy\desktop\lab33\lab\font.h
+
+1451205552 source:c:\users\nancy\desktop\lab33\lab\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1451213464 c:\users\nancy\desktop\lab33\lab\framework.h
+	"font.h"
+
+1419990306 source:c:\users\nancy\desktop\lab33\lab\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1419989930 c:\users\nancy\desktop\lab33\lab\image.h
+
+1419988854 source:c:\users\nancy\desktop\lab33\lab\kb_input2.c
+	"kb_input2.h"
+
+1451380258 source:c:\users\nancy\desktop\lab33\lab\level.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+	"framework.h"
+	"level.h"
+
+1451220310 c:\users\nancy\desktop\lab33\lab\level.h
+
+1451380199 source:c:\users\nancy\desktop\lab33\lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+	"framework.h"
+	"level.h"
+
+1451538725 source:c:\users\user\desktop\lab33\lab33\lab\audio.c
+	"audio.h"
+
+1451538725 c:\users\user\desktop\lab33\lab33\lab\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1451538725 source:c:\users\user\desktop\lab33\lab33\lab\ballmove.c
+
+1451538725 source:c:\users\user\desktop\lab33\lab33\lab\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1451538725 c:\users\user\desktop\lab33\lab33\lab\console_draw3.h
+
+1451538726 source:c:\users\user\desktop\lab33\lab33\lab\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1451538726 c:\users\user\desktop\lab33\lab33\lab\kb_input2.h
+	<windows.h>
+
+1451538726 c:\users\user\desktop\lab33\lab33\lab\font.h
+
+1451538726 source:c:\users\user\desktop\lab33\lab33\lab\framework.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+	"framework.h"
+
+1451538726 c:\users\user\desktop\lab33\lab33\lab\framework.h
+	"font.h"
+
+1451538726 source:c:\users\user\desktop\lab33\lab33\lab\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1451538726 c:\users\user\desktop\lab33\lab33\lab\image.h
+
+1451538726 source:c:\users\user\desktop\lab33\lab33\lab\kb_input2.c
+	"kb_input2.h"
+
+1451539304 source:c:\users\user\desktop\lab33\lab33\lab\level.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+	"framework.h"
+	"level.h"
+
+1451538726 c:\users\user\desktop\lab33\lab33\lab\level.h
+
+1451538726 source:c:\users\user\desktop\lab33\lab33\lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+	"framework.h"
+	"level.h"
+
